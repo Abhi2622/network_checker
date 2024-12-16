@@ -1,6 +1,6 @@
 name: network_checker
 description: "A new Flutter projecA Flutter package to seamlessly monitor network connectivity and display a customizable retry button"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Abhi2622/network_checker
 
 environment:
