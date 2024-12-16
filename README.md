@@ -3,11 +3,8 @@ NetworkChecker is a Flutter widget that monitors the internet connection status 
 # Features
 
 * Monitors internet connection in real-time.
-* 
 * Displays a default retry screen when the network is unavailable.
-* 
 * Customizable retry button and retry screen UI.
-* 
 * Built-in periodic connection checking.
 
 ## Installation
@@ -15,7 +12,6 @@ NetworkChecker is a Flutter widget that monitors the internet connection status 
 Add this to your package's pubspec.yaml file:
 
     yaml
-
 
     dependencies:
        network_checker: latest_version
@@ -52,8 +48,8 @@ Wrap the NetworkChecker widget around your main app or any specific part of the 
            ),
          ),
         );
+      }
      }
-    }
 
 
 ## Custom Retry Screen
